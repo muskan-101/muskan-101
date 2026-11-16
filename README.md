@@ -111,7 +111,7 @@ and I aim to learn something new every single day.
   <tr>
     <td width="33%" valign="top">
       <sub><code>01</code></sub><br>
-      <a href="https://github.com/muskan-101/diwali-plume"><b>Diwali Plume</b><br>
+      <a href="https://github.com/muskan-101/diwali-plume"><b>Diwali Plume</b></a><br>
       <sub>Featured research project</sub><br><br>
       <sub>Computer Vision · Air Quality · Forecasting</sub>
     </td>
@@ -123,7 +123,7 @@ and I aim to learn something new every single day.
     </td>
     <td width="33%" valign="top">
       <sub><code>03</code></sub><br>
-      <a href="https://github.com/muskan-101/menstrual-tracker-frontend"><b>Bloom in Every Cycle</b><br>
+      <a href="https://github.com/muskan-101/menstrual-tracker-frontend"><b>Bloom in Every Cycle</b></a><br>
       <sub>Women's health technology</sub><br><br>
       <sub>Machine Learning · Flask · Healthcare Technology</sub>
     </td>
@@ -143,7 +143,7 @@ and I aim to learn something new every single day.
     </td>
     <td width="33%" valign="top">
       <sub><code>06</code></sub><br>
-      <a href="https://github.com/muskan-101/HandwrittenDigit_Recognition"><b>Handwritten Digit Recognition</b><br>
+      <a href="https://github.com/muskan-101/HandwrittenDigit_Recognition"><b>Handwritten Digit Recognition</b></a><br>
       <sub>Real-time recognition app</sub><br><br>
       <sub>OpenCV · SVM · Streamlit</sub>
     </td>
