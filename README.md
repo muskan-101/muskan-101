@@ -157,8 +157,8 @@ and I aim to learn something new every single day.
 <h3 align="center">GITHUB ACTIVITY</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muskan-101&show_icons=true&hide_border=true&bg_color=0b0610&title_color=d68ab0&icon_color=c2749a&text_color=cdbcc8&border_radius=8" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-101&layout=compact&hide_border=true&bg_color=0b0610&title_color=d68ab0&text_color=cdbcc8&border_radius=8" alt="Most used languages">
+  <img src="assets/stats.svg" width="420" alt="GitHub statistics">
+  <img src="assets/languages.svg" width="420" alt="Most used languages">
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
